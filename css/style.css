@@ -1,6 +1,8 @@
 body {
   margin-top: 76px;
-  font-family: 'Ubuntu', sans-serif; }
+  font-family: 'Ubuntu', sans-serif;
+  overflow-x: hidden;
+}
 
 .navbar {
   box-shadow: 2px 2px 5px #4e47a9;
